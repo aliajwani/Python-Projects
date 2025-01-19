@@ -1,9 +1,5 @@
 """
-CS1026a 2023
-Assignment 04 - assign4.py.py
 Ali Ajwani
-251374819
-aajwani2
 December 8, 2023
 """
 

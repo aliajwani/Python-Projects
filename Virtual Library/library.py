@@ -4,9 +4,6 @@
 def start():
     # Original books in the library
     allBooks = [
-        ['9780596007126', "The Earth Inside Out", "Mike B", 2, ['Ali']],
-        ['9780134494166', "The Human Body", "Dave R", 1, []],
-        ['9780321125217', "Human on Earth", "Jordan P", 1, ['David', 'b1', 'user123']]
     ]
 
     borrowedISBNs = []

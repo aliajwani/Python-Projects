@@ -1,9 +1,5 @@
 """
-CS1026a 2023
-Assignment 03 - sentiment_analysis.py
 Ali Ajwani
-251374819
-aajwani2
 November 17, 2023
 """
 
